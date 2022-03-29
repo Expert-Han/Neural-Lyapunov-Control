@@ -1,0 +1,5 @@
+
+python: 3.6.0
+cuda 10.1
+cudnn 7.6.5
+pytorch 1.4.0
